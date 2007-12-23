@@ -1,4 +1,4 @@
-%define	_released	200712151404
+%define	_released	200712231639
 Summary:	Multi Looking Glass Tracer
 Name:		mlgtracer
 Version:	0.%{_released}
@@ -6,7 +6,7 @@ Release:	1
 License:	GPL v3
 Group:		Applications/Networking
 Source0:	http://dl.sourceforge.net/mlgtracer/%{name}-%{_released}.tgz
-# Source0-md5:	a3c3ae5e194d972e213eb0286fa2ce59
+# Source0-md5:	26e4fa1d1f81219c929bd38084786514
 URL:		http://sourceforge.net/projects/mlgtracer
 Requires:	vilistextum
 Requires:	wget
